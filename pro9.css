@@ -1,0 +1,93 @@
+#grandparent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 625px;
+    width: 100%; 
+    
+}
+#parent{
+    background-color: rgb(177, 97, 165);
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+      
+}
+#boxLR{
+    height: 400px;
+    width: 1000px;
+    display: flex;
+}
+#leftbox{
+    background-image: url(../sspexels-ron-lach-9785024.jpg);
+    color: white;
+    height: 400px;
+    width: 500px;
+    ./pexels-mikhail-nilov-6893376.jpg
+}
+#rightbox{
+    background-color: white;
+    height: 400px;
+    width: 500px;<i class="fa fa-twitter" aria-hidden="true" id="twitter"><b>&nbsp;&nbsp;&nbsp;Login with
+    Twitter
+    
+}
+#Forgot{
+    margin-left: 60px;
+    color: rgb(166, 199, 199);
+    text-decoration: none;
+    
+}
+#Create{
+    text-decoration: none;
+}
+.orange{
+    background-color: orange;
+}
+#Login{
+    border: none;
+    padding: 10px;
+    border-radius: 25px;
+    margin-left: 200px; 
+    width: 90px;
+    box-shadow: 4px 3px 7px orange;
+}
+#facebook{
+    border-radius: 25px;
+    background-color: rgb(74, 21, 122);
+    padding: 10px;
+    height: 20px;
+    width: 70px;
+    text-align: center;
+}
+#twitter{
+    border-radius: 25px;
+    background-color: rgb(184, 130, 235);
+    padding: 10px;
+    height: 20px;
+    width: 180px;
+    text-align: center;
+}
+.margin{
+    margin-left: 40px;
+    
+}
+#marginRB{
+    margin-left: 90px;
+    margin-top: 80px;
+    
+}
+
+#helloworld{
+    margin-top: 30px;
+    font-size: 70px;
+}
+.inputborder{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 300px;
+    outline: none;
+}
